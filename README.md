@@ -56,7 +56,8 @@ UNINASSAU — 6º período
 ### Contato
 
 - **LinkedIn:** [Meu perfil](https://br.linkedin.com/in/jos%C3%A9-gabriel-990963263)
-- **GitHub:** [gabrielLourenco-dev](https://github.com/gabrielLourenco-dev)
+
+
 
 ---
 
