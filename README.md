@@ -5,7 +5,8 @@ Estudante de Ciência da Computação | Desenvolvimento de Software
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-Sobre
+
+
 
 Estudante de Ciência da Computação na UNINASSAU, atualmente no 6º
 período, com interesse em desenvolvimento de software e aplicações web.
