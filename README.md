@@ -1,9 +1,9 @@
-::: {align="center"}
+
 José Gabriel Lourenço da Silva
 Estudante de Ciência da Computação | Desenvolvimento de Software
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-:::
+
 ---
 Sobre
 Estudante de Ciência da Computação na UNINASSAU, atualmente no 6º
@@ -57,7 +57,7 @@ GitHub
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielLourenco-dev&layout=compact&theme=github_dark&hide_border=true)
 :::
 ---
-::: {align="center"}
+
 Estou aberto a aprender, colaborar em projetos e trocar experiências na
 área de tecnologia.
-:::
+
