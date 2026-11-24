@@ -6,6 +6,7 @@ Estudante de Ciência da Computação | Desenvolvimento de Software
 
 ---
 Sobre
+
 Estudante de Ciência da Computação na UNINASSAU, atualmente no 6º
 período, com interesse em desenvolvimento de software e aplicações web.
 Busco aprimorar continuamente minhas habilidades por meio de estudos,
