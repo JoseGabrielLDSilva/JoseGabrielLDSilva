@@ -52,7 +52,7 @@ Ferramentas e conceitos
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 GitHub
-::: {align="center"}
+
 ![GitHub](https://github-readme-stats.vercel.app/api?username=gabrielLourenco-dev&show_icons=true&theme=github_dark&hide_border=true)
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielLourenco-dev&layout=compact&theme=github_dark&hide_border=true)
 :::
